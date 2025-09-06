@@ -116,7 +116,7 @@ body {
     border-bottom: 1px solid black;
 }
 .land {
-    background-image: url(image/dave-hoefler-vHgAy9pOs9I-unsplash.jpg);
+    background-image: url(image/land.jpg);
     background-size: cover;
     height: calc(100vh - 64px);
     position: relative;
